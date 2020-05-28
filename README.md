@@ -2,7 +2,7 @@
 
  A solution to the TSP using different heuristic algorithms.
  
- - Input format is, identifier of the location and 2D Coordinates of the locations
+ - The input format is the same in every algorithm, identifier of the coordinates and the coordinates of the locations on the x-y axis
  
  Example:
  
