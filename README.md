@@ -82,10 +82,10 @@ Example Output:
 
 - #### Single Tour  
 
-<img src="https://github.com/onurjuzelle/TSP/blob/master/Tour%20Visualization/neartour_.jpg" width="320" height="300"/>
+<img src="https://github.com/onurjuzelle/TSP/blob/master/Tour%20Images/neartour_.jpg" width="320" height="300"/>
 
 - #### Multiple Tour
 
 <img 
-src="https://github.com/onurjuzelle/TSP/blob/master/Tour%20Visualization/tourcomp_.jpg" width="320" height="300"/>
+src="https://github.com/onurjuzelle/TSP/blob/master/Tour%20Images/tourcomp_.jpg" width="320" height="300"/>
 
