@@ -1,6 +1,5 @@
 // CMP3004 - Formal Languages and Automata Theory Term Project by Onur Guzel
 // TSP Greedy Algorithm Implementation
-// Please refer to the readme.txt for compling the code
 
 #include <iostream>
 #include <cmath>
@@ -254,7 +253,7 @@ int main(int argc, char *argv[])
 	twoOptImprove(tspTour, graph2);
 	clock_t end = clock();
 	double elapsed_secs = double(end - begin) / CLOCKS_PER_SEC;
-	cout<< " -------------------------------------- "<< endl;
+    cout<< " -------------------------------------- "<< endl;
     cout<< "| Nearest Neighbour Algorithm Solution | "<< endl;
     cout<< " -------------------------------------- "<< endl;
     cout<<endl;
