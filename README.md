@@ -16,7 +16,7 @@
      .    .    . 
 
 
-- ##  Nearest Neigbor Algorithm
+- ##  Nearest Neighbor Algorithm
 
 Open a new terminal 
 
@@ -30,9 +30,9 @@ Open a new terminal
 
 ```./[Program_Name] [Input_File_Name]```
 
-- ## Opt-Nearest Neigbor Algorithm
+- ## Opt-Nearest Neighbor Algorithm
 
-This algorithm is the optimized version of the Nearest Neigbor Algorithm in order to find the shortest path possible. It takes the shortest path distance from the user as a parameter and generates tours until the distance is smaller than the distance provided by the user 
+This algorithm is the optimized version of the Nearest Neighbor Algorithm in order to find the shortest path possible. It takes the shortest path distance from the user as a parameter and generates tours until the distance is smaller than the distance provided by the user 
 
 Open a new terminal 
 
