@@ -1,7 +1,7 @@
 #include "header/axisgoal.h"
 #include "header/tsp.h"
 #include <iostream>
-
+#include <chrono>
 #define result "sol.txt"
 
 
